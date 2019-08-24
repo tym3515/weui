@@ -6,7 +6,7 @@ weui+是Zepto1.2和weui1.13等众多开源项目中,参考而成的,接近100个
 [v5.X](http://tym369.top/index.html)
 
 ###  安装
-<https://gitee.com/yoby/weui>
+<https://github.com/tym3515/weui.git>
 
 
 
